@@ -27,4 +27,4 @@ Starter for a React Application
     
 ### What's next?
 
-* Connect to the node(expressjs) server side [Starter-node-rest](https://github.com/tigaly/starter-nodejs-rest)
+- [ ] Connect to the node(expressjs) server side [Starter-node-rest](https://github.com/tigaly/starter-nodejs-rest)
